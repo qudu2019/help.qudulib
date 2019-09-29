@@ -27,16 +27,17 @@
 
 <img src="https://qudulib.oss-cn-shanghai.aliyuncs.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-27%20%E4%B8%8A%E5%8D%8811.32.25.png" width="250" hegiht="150" align=center />
 
-2、输入套装书isbn码，点击 **“查询”**，填写该套装书资料。
+2、输入套装书isbn码，点击 **“查询”**，填写该套装书资料，此时书籍类型显示为主记录。
 
-blob.png
+<img src="https://qudulib.oss-cn-shanghai.aliyuncs.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-29%20%E4%B8%8A%E5%8D%888.58.46.png" width="800" hegiht="500" align=center />
 
 3、点击 **“保存”**。
 
-注意：录入主记录，无库存信息。
+**注意：**录入主记录，无需填写库存信息。
 
 4、点击 **“丛书单本录入”**，开始在主记录下录入丛书单本。
 
+<img src="https://qudulib.oss-cn-shanghai.aliyuncs.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-27%20%E4%B8%8A%E5%8D%8811.26.12.png" width="250" hegiht="150" align=center />
 
 
 
