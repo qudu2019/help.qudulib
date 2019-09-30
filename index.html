@@ -15,7 +15,7 @@
     window.$docsify = {
       auto2top: true,
       logo: 'https://qudulib.oss-cn-shanghai.aliyuncs.com/160x40.png',
-      name: '',
+      name: '帮助中心',
       repo: '',
       loadNavbar: true,
       loadNavbar: 'nav.md',
@@ -24,34 +24,16 @@
       search: 'auto', // 默认值
 
     search : [
-      '/',            // => /README.md
-      // '/guide',       // => /guide.md
-      // '/get-started', // => /get-started.md
-      // '/zh-cn/',      // => /zh-cn/README.md
+      '/目录/4',            
     ],
 
     // 完整配置参数
     search: {
-      maxAge: 86400000, // 过期时间，单位毫秒，默认一天
-      paths: [], // or 'auto'
-      placeholder: 'Type to search',
+      maxAge: 86400000, 
+      paths: [ ],
+      placeholder: '搜索',
+      noData: '找不到结果'
 
-      // 支持本地化
-      placeholder: {
-      //  '/zh-cn/': '搜索',
-        '/': 'Type to search'
-      },
-
-      noData: 'No Results!',
-
-      // 支持本地化
-      noData: {
-      //  '/zh-cn/': '找不到结果',
-        '/': 'No Results'
-      },
-
-      // 搜索标题的最大程级, 1 - 6
-      depth: 2
     }
 
     }
@@ -59,6 +41,7 @@
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
   <script src="//unpkg.com/vue"></script>
+  
   
 </body>
 </html>
